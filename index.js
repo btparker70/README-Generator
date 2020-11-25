@@ -41,3 +41,9 @@ inquirer
             name: 'questions'
         }
     ])
+    .then((response) =>
+        fs.writeFile('README.md', 
+        (``), 
+        (err) => err ? console.error(err) : console.log('Success!')
+        )
+    )
