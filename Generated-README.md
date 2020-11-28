@@ -1,5 +1,22 @@
-# My Project
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# my title
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Webpage
+ webpage.com
+# Installation
+ install steps
+# Usage
+ instructions here
+# Credits
+ my collaborators
+# Contributions
+ guidelines for contributing
+# Test
+ undefined
+# Questions
+ You can reach me for questions at my email: myemail@email.com or my github: github
+
+# Description
+ my description
 # Table of Contents
 * [Webpage](#Webpage)
 * [Install](#Install)
@@ -10,22 +27,5 @@
 * [Tests](#Tests)
 * [Questions](#Questions)
 * [License](#License)
-# Webpage
- webpage.com
-# Installation
- Download it and install
-# Usage
- Instructions here
-# Credits
- collaborators here
-# Contributions
- guidelines here
-# Test
- undefined
-# Questions
- You can reach me for questions at my email: myemail.com or my github: mygithub
 # License
- This repository is released under the [Apache License](https://www.apache.org/licenses/LICENSE-2.0)
-
-# Description
- A readme generator
+ This repository is released under the [MIT License](https://opensource.org/licenses/MIT)
