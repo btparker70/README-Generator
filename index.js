@@ -1,9 +1,8 @@
+// REQUIRES //
 const inquirer = require('inquirer');
 const fs = require('fs');
-const { title } = require('process');
-// const util = require('util');
-// const open = require('open');
 
+// FUNCTIONALITY //
 // This prompts the user for answers and creates the readme
 inquirer
     // Questions asked
@@ -191,4 +190,4 @@ inquirer
                 `# License\n This repository is released under the ${licenseLink}\n`
             ), (err) => err ? console.error(err) : console.log('License added.'))
         }
-    }) // end of .then
+    })
