@@ -12,7 +12,7 @@ Thanks for visiting! My name is Brian and I am a web development student through
 # Readme Generator
 An app to generate readmes through node.js
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=aq0e_wYRoJs&feature=youtu.be)
+[![Watch the video](https://github.com/btparker70/README-Generator/blob/main/assets/images/youtubepic.png?raw=true)](https://www.youtube.com/watch?v=aq0e_wYRoJs&feature=youtu.be)
 
 
 # Table of Contents
@@ -26,7 +26,7 @@ Run through node by invoking 'node index.js' in the terminal. You will the prese
 
 # What I learned
 
-This was my first project using API's and ajax calls. Figuring out I could make a call within another call was the biggest roadblock I had. I enjoyed reading the documentation and learning how to use OpenWeatherMap's api's. What was fun for me was exploring the map feature and figuring out how to get the current city data for them. I learned that there's a grid system for the Earth, where based on a 'zoom' level, the map is split into a grid. I had to convert the latitude and longitude to this grid system and this required some digging around until I found a few conversion functions. Needless to say, I was excited when it started working!
+This was my first project using Node.js. The work was pretty straight forward although I did get hung up figuring out I could break up the .then into functions. Overall I enjoyed the assignment and I am looking forward to exploring the potential here with node!
 
 # License
 This repository is released under the [MIT License](https://opensource.org/licenses/MIT)
